@@ -28,7 +28,9 @@
             </div>
         </div>
         <div class="sm:order-1 md:order-2">
-            <img class="sm:w-[460px] sm:h-[341px] md:w-[460px] md:h-[341px] lg:w-[480px] lg:h-[381px] xl:w-[493px] xl:h-[394px] sm:mr-auto md:mr-0 ml-auto" src="https://img.freepik.com/vecteurs-libre/illustration-concept-revision-code_114360-4289.jpg?w=740&t=st=1699996510~exp=1699997110~hmac=51f451ee3667725af9a136473d26a48f99fc3e084e04fdd92e7bb84d05d343cd" alt="">
+            <!-- <img class="sm:w-[460px] sm:h-[341px] md:w-[460px] md:h-[341px] lg:w-[480px] lg:h-[381px] xl:w-[493px] xl:h-[394px] sm:mr-auto md:mr-0 ml-auto" src="https://img.freepik.com/vecteurs-libre/illustration-concept-revision-code_114360-4289.jpg?w=740&t=st=1699996510~exp=1699997110~hmac=51f451ee3667725af9a136473d26a48f99fc3e084e04fdd92e7bb84d05d343cd" alt=""> -->
+            <img class="sm:w-[460px] sm:h-[341px] sm:block md:hidden sm:mr-auto md:mr-0 ml-auto" src="https://img.freepik.com/vecteurs-libre/illustration-concept-revision-code_114360-4289.jpg?w=740&t=st=1699996510~exp=1699997110~hmac=51f451ee3667725af9a136473d26a48f99fc3e084e04fdd92e7bb84d05d343cd" alt="">
+            <img class="sm:w-[460px] sm:h-[341px] sm:hidden md:block md:w-[460px] md:h-[341px] lg:w-[480px] lg:h-[381px] xl:w-[493px] xl:h-[394px] sm:mr-auto md:mr-0 ml-auto" src="./../../assets/images/headerimage.png" alt="">
         </div>
     </div>
 </template>
